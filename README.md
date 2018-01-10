@@ -342,12 +342,12 @@ Output: 0.7064380535244342
 
 #### Clustering
 
-![Keras](images/7.PNG)
+![Keras](images/7.png)
 
 #### Corr-Pair Plot
 
-![Keras](images/8.PNG)
+![Keras](images/8.png)
 
 #### ML Studio 
 
-![Keras](images/9.PNG)
+![Keras](images/9.png)
